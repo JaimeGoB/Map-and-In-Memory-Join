@@ -1,2 +1,2 @@
-# Map-and-In-Memory-Join
+# Map-and-In-Memory-Join-Hadoop
 
