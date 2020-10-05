@@ -1,2 +1,4 @@
 /.metadata/
-*.java
+MapJoin.java
+MapJoinMapper.java
+MapJoinReducer.java
